@@ -1,0 +1,31 @@
+.heading {
+	background: url(http://www.imcreator.com/wp-content/uploads/2013/11/wpid-Featured_Picture73-620x410.jpg) no-repeat;
+	background-size: cover;
+	height: 400px;
+	text-align: center;
+	background-attachment: fixed;
+}
+
+.navbar-default {
+	background-color: rgba(0,0,0,0.4);
+	border: none;
+	color: #fff;
+}
+
+h1 {
+	color: rgba(105,105,105,4);
+	padding-top: 140px;
+	font: 400 5em/125% 'Grand Hotel', Helvetica, Sans-serif;
+}
+
+.btn-default{
+	background-color: rgba(255,255,255,0.5);
+}
+
+.btn-default:hover{
+	background-color: rgba(0,0,0,0.5);
+	color:#fff;
+}
+.row{
+	text-align: center;
+}
